@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555808155906.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "47246DA1",
+    "lastKnownWriteTime" : 1555808978,
+    "last_content_update" : 1555808978603,
+    "path" : "F:/UNCC/Study/VISUAL ANALYTICS/Assignments/MyWebsite2/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "34,20",
+        "scrollLine" : "23"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
